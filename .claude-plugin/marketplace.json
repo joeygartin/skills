@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "mattpocock-skills",
+  "version": "1.0.0",
+  "description": "Matt Pocock's Claude Code skills for engineering, productivity, and writing.",
+  "owner": {
+    "name": "Matt Pocock"
+  },
+  "plugins": [
+    {
+      "name": "mattpocock-skills",
+      "description": "Engineering, productivity, and writing skills for Claude Code",
+      "source": "."
+    }
+  ]
+}
